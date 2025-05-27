@@ -1,0 +1,8 @@
+{
+    "name": "Demo Plugin",
+    "version": "0.1.0",
+    "description": "A simple demonstration plugin.",
+    "author": "CMSO Team",
+    "namespace": "Cmsoplugins\\DemoPlugin",
+    "service_provider": "Cmsoplugins\\DemoPlugin\\Providers\\DemoPluginServiceProvider"
+}
